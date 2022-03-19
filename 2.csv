@@ -1,0 +1,26 @@
+owner _id,owner_name,address,phone_no,username,password,admin_ id,account_status
+1,James,Bhopal,9100000000,James,James,13,1
+2,Josephine,Noida,9200000000,Josephine,Josephine,12,1
+3,Art,Noida,9300000000,Art,Art,12,1
+4,Lenna,Bhopal,9400000000,Lenna,Lenna,23,1
+5,Donette,Vadodara,9500000000,Donette,Donette,10,0
+6,Simona,Mumbai,9600000000,Simona,Simona,12,1
+7,Mitsue,Chennai,9700000000,Mitsue,Mitsue,9,1
+8,Leota,Chennai,9800000000,Leota,Leota,24,1
+9,Sage,Noida,9900000000,Sage,Sage,14,1
+10,Kris,Noida,1100000000,Kris,Kris,18,1
+11,Minna,Bhopal,1200000000,Minna,Minna,11,1
+12,Abel,Mumbai,1300000000,Abel,Abel,24,1
+13,Kiley,Noida,1400000000,Kiley,Kiley,21,1
+14,Graciela,Mumbai,1500000000,Graciela,Graciela,25,1
+15,Cammy,Chennai,1600000000,Cammy,Cammy,1,1
+16,Mattie,Vadodara,1700000000,Mattie,Mattie,9,1
+17,Meaghan,Chennai,1800000000,Meaghan,Meaghan,5,1
+18,Gladys,Chennai,1900000000,Gladys,Gladys,6,1
+19,Yuki,Noida,2000000000,Yuki,Yuki,19,0
+20,Fletcher,Vadodara,2100000000,Fletcher,Fletcher,10,1
+21,Bette,Mumbai,2200000000,Bette,Bette,8,1
+22,Veronika,Vadodara,2300000000,Veronika,Veronika,23,1
+23,Willard,Chennai,2400000000,Willard,Willard,23,0
+24,Maryann,Mumbai,2500000000,Maryann,Maryann,7,1
+25,June,Delhi,8767654567,June,June,4,1

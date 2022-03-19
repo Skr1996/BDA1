@@ -1,0 +1,26 @@
+car_id,car_name,description,car_model_year,car_brand,color,capacity,plate_number,rate,owner_id,status
+1,Faris,bold-dynamic styling and spacious-intuitive interi.,2017,Toyota,white,5,0,4.1,13,1
+2,BMW-X1,Luxury car with AC/heater in-built,2019,BMW,black,5,4875,5,18,1
+3,BMW-3 series,3 Series,2013,BMW,Black,7,7162,4.8,7,1
+4,BMW-X1,Luxury car with AC/heater in-built,2016,BMW,Black,5,3697,4.9,12,1
+5,BMW-X6,Luxury car with AC/heater in-buit,2019,BMW,Black,5,6208,5,24,1
+6,BMW-X6,Luxury car with AC/heater in-built,2019,BMW,Black,7,5650,4.8,14,1
+7,Sail Hatchback,"attached TV, music-system, AC/heater",2017,Chevrolte,black,7,7312,4.9,3,1
+8,Nexon,Filled with features including Keyless Entry-Rain,2019,TATA,brown,7,1721,5,12,1
+9,Nexon,Filled with features including Keyless Entry-Rain S.,2017,TATA,white,5,9590,4.6,22,1
+10,Fiesta,unknown,2013,Ford,white,7,4628,3,19,0
+11,Civic,unknown,2011,Honda,black,7,2680,4,19,0
+12,Accent,Filled with features including Keyless Entry-Rain,2017,Hyundal,blue,5,4302,4.6,2,1
+13,Sail Hatchback,"attached TV, music-system, AC/heater",2020,Chevrolte,blue,7,3826,5,11,1
+14,Sonic,unknown,2012,Chevrolte,blue,6,6921,3.7,7,0
+15,Sail Hatchback,fun and reliable automobile,2019,Chevrolte,black,5,7129,4.7,6,1
+16,Corolla,unknown,2010,Toyota,white,5,7467,4.4,7,0
+17,Golf,fun and reliable automobile,2015,Volkswagon,black,6,1736,4.4,15,1
+18,Nexon,reliable automobile,2019,TATA,brown,5,9515,4.9,16,1
+19,Golf,Filed with features including Keyless Entry-Rain S.,2015,Volkswagon,white,6,7502,4,1,1
+20,Civic,unknown,2011,Honda,blue,6,9685,3.3,2,0
+21,Accord,Filled with features including Keyless Entry-Rain S.,2017,Honda,Black,7,5009,4.2,24,1
+22,Cruze,A familiy car with multiple key features,2017,Chevrolte,red,6,4147,4.4,20,1
+23,Civic,unknown,2013,Honda,green,5,8979,4.9,8,0
+24,Swift,A familiy car with multiple key features,2017,Maruti,black,5,765,3.8,15,1
+25,Swift,A familiy car with multiple key features,2017,Maruti,red,5,1287,2.6,17,1
